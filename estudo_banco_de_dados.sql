@@ -1,4 +1,8 @@
+https://www.mikedane.com/databases/sql/company-database.pdf
+
+
 /*Inserting Data:*/
+
 Create table student (
 	student_id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
 	name VARCHAR (20),
